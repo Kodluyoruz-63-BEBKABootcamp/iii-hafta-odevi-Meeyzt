@@ -1,19 +1,5 @@
 # III-hafta-odevi
 
-✅- .Net kodu nedir ve nasıl derlenir?
-
-✅- Roslyn compiler ne işe yarar?
-
-✅- Restful servisler nasıl çalışır? Alternatifleri nelerdir ve nasıl çalışırlar?
-
-✅- Extension method nedir? Nasıl yazılır?
-
-✅- MVC'nin alternatifleri nelerdir?
-
-✅- Architectural pattern nedir? Neden ihtiyaç duyuyoruz?
-
-- ViewData, ViewBag, TempData farkları nelerdir? Çalıştığımız proje üzerinde başka bir branch açarak bunları deneyiniz?
-
 ## .Net kodu nedir ve nasıl derlenir?
   * **.Net Nedir**
     * .NET Core modüler yapısıyla ve open source bir framework olarak contribute edilebilir ortam sağlamıştır. Microsoft hem kendi frameworkünü .NET ekosisteminde yaşayan geliştiricilerin isteklerine hızlı cevap verir hale getirirken hemde .NET Core ile uygulama geliştireceklere çok daha “modern” bir ortam sağlamayı başardı.
